@@ -6,7 +6,7 @@ Based on the examples found at https://www.omniglot.com/language/phrases/hovercr
 
 - XeLaTeX or LuaLaTeX
 - fontenc package
-- Fonts: FreeSans, FreeSerif, WenQuanYi Micro Hei, Dejavu Sans, Noto Serif {Myanmar, Kannada, Khmer, Tibetan, Telugu}
+- Fonts: FreeSans, FreeSerif, WenQuanYi Micro Hei, Dejavu Sans, Noto Serif {Myanmar, Kannada, Khmer, Tibetan, Telugu, KR (=Korean)}
 
 ## License
 
